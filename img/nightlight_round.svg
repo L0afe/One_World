@@ -1,0 +1,11 @@
+<svg width="33" height="32" viewBox="0 0 33 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="nightlight_round">
+<path id="Vector" d="M22.6553 29.327C22.7487 29.327 22.842 29.327 22.9353 29.327C24.0553 29.3003 24.4287 27.847 23.482 27.247C19.7753 24.887 17.3087 20.727 17.3087 16.007C17.3087 11.2737 19.7753 7.127 23.482 4.75366C24.4153 4.15366 24.0687 2.70033 22.962 2.67366C22.9087 2.67366 22.842 2.67366 22.7887 2.67366C16.2553 2.607 10.5087 7.38033 9.482 13.8337C8.17534 22.1403 14.5887 29.327 22.6553 29.327Z" fill="url(#paint0_radial_49_124)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_49_124" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(20.9168 4.5) rotate(54.2461) scale(30.8058 17.3364)">
+<stop stop-color="#B493FF"/>
+<stop offset="1" stop-color="#8B5CF6"/>
+</radialGradient>
+</defs>
+</svg>
